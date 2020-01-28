@@ -10,12 +10,7 @@
 ;;; License: GPLv3
 
 (defvar pianobar-config 'nil
-  "If your pianobar config contains your username and password,
-  you can set to t.")
-
-(defvar pianobar-command 'nil
-  "If Pianobar is not installed in path, set this variable
-  pianobar-command to be the path to the Pianobar executable.")
+  "Set to t if your pianobar config contains your username and password.")
 
 (defvar pianobar-station 'nil
   "Automatically connect to this station on login. Value must be
