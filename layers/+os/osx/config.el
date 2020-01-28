@@ -13,6 +13,9 @@
   "If non nil the option key is mapped to meta. Set to `nil` if you need the
   option key to type common characters.")
 
+(defvar osx-super-lefty t
+  "If non nil osx-style keybinds are set using left hand keys and super.")
+
 (defvar osx-use-dictionary-app t
   "If non nil use osx dictionary app instead of wordnet")
 
