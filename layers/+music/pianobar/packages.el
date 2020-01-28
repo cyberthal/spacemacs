@@ -27,5 +27,4 @@
               "amp-" 'pianobar-ban-current-song
               "ampt" 'pianobar-shelve-current-song
               "amps" 'pianobar-change-station
-              "ampq" 'pianobar-quit
               ))))

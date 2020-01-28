@@ -35,10 +35,5 @@ file.
 | ~SPC a m p n~ | Go to the next track     |
 | ~SPC a m p +~ | Love current song        |
 | ~SPC a m p -~ | Ban current song         |
-| ~SPC a m p t~ | shelve-current-song      |
-| ~SPC a m p s~ | change-station           |
-| ~SPC a m p q~ | quit                     |
-| ~SPC a m s p~ | Play or pause Spotify    |
-| ~SPC a m s n~ | Go to the next track     |
-| ~SPC a m s N~ | Go to the previous track |
-| ~SPC a m s Q~ | Quit Spotify             |
+| ~SPC a m p t~ | Tired of current song      |
+| ~SPC a m p s~ | Switch station           |
